@@ -1,0 +1,12 @@
+used python packages:
+
+anytree
+fusepy
+pycryptodome
+boxsdk
+dropbox
+google-api-python-client
+
+sssa-python :
+    https://github.com/SSSaaS/sssa-python
+
